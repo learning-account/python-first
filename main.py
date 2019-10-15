@@ -8,3 +8,5 @@ def hello(name):
 hello('Everybody')
 
 # different comment added in /first
+
+# comment added in file in /second
