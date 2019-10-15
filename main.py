@@ -1,3 +1,8 @@
 #!/usr/bin/python3
 
-print("hello world!")
+
+def hello(name):
+    print('Hello {}!'.format(name))
+
+
+hello('Everybody')
